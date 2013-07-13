@@ -12,8 +12,8 @@ The `_blank` project contains a few files to get you started:
 
 <table>
 	<thead>
-		<tr>filename</tr>
-		<tr>description</tr>
+		<th>filename</th>
+		<th>description</th>
 	</thead>
 	<tbody>
 		<tr>
