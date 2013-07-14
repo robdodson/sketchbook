@@ -18,7 +18,7 @@ The `_blank` project contains a few files to get you started:
 	<tbody>
 		<tr>
 			<td>index.html</td>
-			<td>An example HTML file. It uses the HTML5 `html` [doctype](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/Introduction_to_HTML5) and includes a few example CSS and JavaScript files.</td>
+			<td>An example HTML file. It uses the HTML5 <code>html</code> <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/Introduction_to_HTML5">doctype</a> and includes a few example CSS and JavaScript files.</td>
 		</tr>
 		<tr>
 			<td>style/main.css</td>
@@ -26,15 +26,15 @@ The `_blank` project contains a few files to get you started:
 		</tr>
 		<tr>
 			<td>scripts/main.js</td>
-			<td>An example JavaScript file. It demonstrates create a click handler in [jQuery](http://jquery.com/) and how to log to the console.</td>
+			<td>An example JavaScript file. It demonstrates create a click handler in <a href="http://jquery.com/">jQuery</a> and how to log to the console.</td>
 		</tr>
 		<tr>
 			<td>scripts/vendor/jquery.js</td>
-			<td>The [jQuery](http://jquery.com) library. jQuery is extremely popular and a great stepping stone when you're first learning JavaScript.</td>
+			<td>The <a href="http://jquery.com">jQuery</a> library. jQuery is extremely popular and a great stepping stone when you're first learning JavaScript.</td>
 		</tr>
 		<tr>
 			<td>scripts/vendor/html5.js</td>
-			<td>The [HTML5 shiv](https://github.com/aFarkas/html5shiv) adds support for HTML5 sectioning elements in legacy Internet Explorer.</td>
+			<td>The <a href="https://github.com/aFarkas/html5shiv">HTML5 shiv</a> adds support for HTML5 sectioning elements in legacy Internet Explorer.</td>
 		</tr>
 	</tbody>
 </table>
