@@ -26,7 +26,7 @@ The `_blank` project contains a few files to get you started:
 		</tr>
 		<tr>
 			<td><code>scripts/main.js</code></td>
-			<td>An example JavaScript file. It demonstrates create a click handler in <a href="http://jquery.com/">jQuery</a> and how to log to the console.</td>
+			<td>An example JavaScript file. It demonstrates creating a <a href="http://jquery.com/">jQuery</a> click handler and how to log to the console.</td>
 		</tr>
 		<tr>
 			<td><code>scripts/vendor/jquery.js</code></td>
